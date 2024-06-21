@@ -1,0 +1,15 @@
+{
+  "name": "crdt-filesync",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@automerge/automerge": "2.2.2",
+    "fs-extra": "^11.2.0"
+  }
+}
