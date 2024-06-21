@@ -1,5 +1,7 @@
 # crdt-filesync
 
+Demo project for https://tonsky.me/blog/crdt-filesync/
+
 To install dependencies:
 
 ```bash
